@@ -1,4 +1,4 @@
-# Mutation Testing Manifesto
+
 
 Most prominent bottlenecks when creating software are:
 
