@@ -34,3 +34,5 @@ To fully eliminate any bloat (after removing or remediating the redundant areas 
 If after removing as many tests as possible there are no new surviving mutants, the bloat has been fully eliminated.
 
 Only mutation testing gives us the tooling to know how to minimize the bloat in tests. It is extremely desirable to have as few tests as possible.
+
+_Alex Bunardzic, August 2021_
