@@ -5,9 +5,9 @@ Most prominent bottlenecks when creating software are:
 1. Accidental complexity
 1. Source code bloat
 
-Accidental complexity can be minimized/removed by practicing Test Driven Development (TDD).
+**Accidental complexity** can be minimized/removed by practicing Test Driven Development (TDD).
 
-Source code bloat can be effectively removed by practicing Mutation Testing.
+**Source code bloat** can be effectively removed by practicing Mutation Testing.
 
 ## Removing/Preventing source code bloat
 
